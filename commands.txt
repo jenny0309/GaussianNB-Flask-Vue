@@ -1,0 +1,6 @@
+python -m venv venv
+set FLASK_APP=mlapi.py
+flask run
+
+vue create vueml
+npm run serve
